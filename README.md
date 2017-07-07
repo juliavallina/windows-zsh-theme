@@ -1,6 +1,6 @@
-# Windows
+# Windows CMD zsh theme
 
-Simple `zsh` theme inspired by Windows Command Prompt
+Simple `zsh` theme inspired by Windows Command Prompt `¯\_(ツ)_/¯`
 
 
 ## Showcase
